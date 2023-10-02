@@ -4,4 +4,4 @@
 "args": "",
 "noneMarkers": true,
 "theme": "idea",
-"code": "import kotlin.math.pow\n\nconst val PI = 3.1416F\nconst val PHI = 1.618F\n\nfun main() {\n val radius = 4F\n  val area = circleArea(radius)\n println(\"El área del circulo es $area\")\n println(getPi())\n  printPhi()\n}'\n\nfun circleArea(radius: Float) : Float {\n  return PI\n}\nfun printPhi() {\n  println(\"El numero áureo vale $PHI\")\n}
+"code": "import kotlin.math.pow\n\nconst val PI = 3.1416F\nconst val PHI = 1.618F\n\nfun main() {\n val radius = 4F\n  val area = circleArea(radius)\n println(\"El área del circulo es $area\")\n println(getPi())\n  printPhi()\n}\n\nfun circleArea(radius: Float) : Float {\n  return PI\n}\nfun printPhi() {\n  println(\"El numero áureo vale $PHI\")\n}
