@@ -1,0 +1,8 @@
+{
+    "version": "1.9.10",
+    "platform": "java",
+    "args": "",
+    "noneMarkers": true,
+    "theme": "idea",
+    "code": "/**\n * You can run, and share this code.\n * play.kotlinlang.org\n */\nfun main() {\n println(\"Hello, Upiicsa!!!\")\n    print(\"¿Que pasa con los dos mensajes?\")\n    println(\"¿Que diferencia hay con print?\")\n}"
+    }
